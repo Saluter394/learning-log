@@ -3,3 +3,4 @@
 ## - note about branching
 ##  Branching excercice 2
 Learned the difference between git push and git push origin main
+learn the meaning of push -u origin

@@ -2,6 +2,6 @@
 ## 2026-08-24 — CLI drills A/B/C done, git branching lessons complete
 ## - note about branching
 ##  Branching excercice 2
-Learned the difference between git push and git push origin main
-learn the meaning of push -u origin
--note about branching 2
+## Learned the difference between git push and git push origin main
+## learn the meaning of push -u origin
+## -note about branching 2

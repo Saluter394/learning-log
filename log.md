@@ -7,3 +7,4 @@
 ## -note about branching 2
 ## -note about branching 3
 fixed first bug
+fixed second bug

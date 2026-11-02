@@ -6,5 +6,6 @@
 ## learn the meaning of push -u origin
 ## -note about branching 2
 ## -note about branching 3
+fixed bug 2
 fixed first bug
 fixed second bug
